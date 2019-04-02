@@ -5,8 +5,8 @@ It was the final project in my first formal programming course in freshman year 
 
 # Playing the Game
 
-Tab (hold): displays the scoreboard
-Left Click: Shoot
+Tab (hold): displays the scoreboard  
+Left Click: Shoot  
 1, 2, 3: Switch between weapons that you've purchased
 
 # What I Learned
