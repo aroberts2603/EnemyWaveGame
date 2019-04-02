@@ -9,6 +9,9 @@ Tab (hold): displays the scoreboard
 Left Click: Shoot  
 1, 2, 3: Switch between weapons that you've purchased
 
+The goal is to clear all enemies before they reach you  
+Shoot the enemies to gain money and clear waves to purchase new guns  
+
 # What I Learned
 
 - Basic Programming Structure (classes, functions, variables, etc.)
