@@ -1,11 +1,14 @@
-Enemy Wave Game
+# About
 
-A game with waves of enemies that you have to defeat.
-It started as a school project but now I do if for fun.
-It's made in the python version of processing which was what we were learning at the time.
-You can download processing here: https://processing.org/download/
+This is a game with waves of enemies that you have to defeat.
+It was the final project in my first formal programming course in freshman year of highschool.
+It's made in the python version of processing which you can download here: https://processing.org/download/
 
-Controls:
+# Playing the Game
 
-You can hold tab to show the scoreboard.
-You can shoot with left click, you can switch weapon with 1, 2, and 3 but only after you buy them. Have fun!
+Tab (hold): displays the scoreboard
+Left Click: Shoot
+1, 2, 3: Switch between weapons that you've purchased
+
+# What I Learned
+
